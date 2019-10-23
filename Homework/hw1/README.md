@@ -1,0 +1,7 @@
+### [Homework 1](https://github.com/schneider128k/machine_learning_course/blob/master/homework/hw1.md)
+1. [R^2 function min, max, and saddle point plotting](https://github.com/Machine-Learning-UCF/tree/Homework/hw1/mvasquez_part1.ipynb)
+    - [Open Colab for part1](https://colab.research.google.com/drive/12mFv5SfGeewf9CWpVJjnThoVNE24BulZ)
+1. [Multivariable linear regression using gradient descent](https://github.com/Machine-Learning-UCF/tree/Homework/hw1/mvasquez_part2.ipynb)
+    - [Open Colab for part2](https://colab.research.google.com/drive/1wH9UM6z-Q0m95z-keTZjBL008VoY2PoZ)
+1. [Visualizing average of an mnist digit](https://github.com/Machine-Learning-UCF/tree/Homework/hw1/mvasquez_part3.ipynb)
+    - [Open Colab for part3](https://colab.research.google.com/drive/1jIu_2c8igsVr9D95J2Ks7_qyx_c26_3B)
